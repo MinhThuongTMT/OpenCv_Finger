@@ -1,4 +1,5 @@
 ✋ Dự án Nhận diện Bàn tay và Dự đoán Con số
+
 📌 Giới thiệu
 Đây là dự án nhận diện cử chỉ tay thông qua camera, nhận diện số dấu tay và hiển thị kết quả dựa trên số lượng ngón tay được nhận diện.
 Dự án sử dụng OpenCV và các kỹ thuật nhận diện hình ảnh.
