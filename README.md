@@ -26,6 +26,7 @@ Nhận diện số ngón tay: Dự đoán cử chỉ số ngón tay (ví dụ: 5
 Hiển thị dữ liệu: Dấu tay được vẽ trên màn hình với các điểm khớp nhận diện.
 
 🖥️ Minh họa
+
 ![image](https://github.com/user-attachments/assets/dbc2a5ff-5d5b-424d-a360-82a5f1d59794)
 
 📄 Giới thiệu tính năng
@@ -48,4 +49,5 @@ Chào mừng các bạn cộng tác và cải tiến mã nguồn!
 Vui lòng tạo Issue hoặc Pull Request nếu bạn phát hiện lỗi hoặc có ý tưởng mới.
 
 📧 Thông tin tác giả
+
 Tác giả: Tran Minh Thuong
