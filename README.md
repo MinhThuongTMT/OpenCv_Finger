@@ -7,10 +7,12 @@ Hiện tại, màn hình hiển thị:
 FPS (làm mượt video).
 Phát hiện số dấu tay được thể hiện trên màn hình.
 Cử chỉ tay được hiển thị với các điểm khớp nhận diện.
+
 💻 Công nghệ sử dụng
 Python 3.x
 OpenCV - Thư viện xử lý hình ảnh và video.
 Mediapipe hoặc các kỹ thuật nhận diện cử chỉ tay.
+
 📂 Cài đặt và Chạy dự án
 Cài đặt các thư viện cần thiết:
 Bạn cần cài đặt các dependencies bằng pip:
@@ -22,8 +24,10 @@ Sau khi chạy mã nguồn, bạn sẽ thấy màn hình như sau:
 FPS: Hiện tại là thông tin FPS của luồng video.
 Nhận diện số ngón tay: Dự đoán cử chỉ số ngón tay (ví dụ: 5 ngón tay trong hình minh họa).
 Hiển thị dữ liệu: Dấu tay được vẽ trên màn hình với các điểm khớp nhận diện.
+
 🖥️ Minh họa
 ![image](https://github.com/user-attachments/assets/dbc2a5ff-5d5b-424d-a360-82a5f1d59794)
+
 📄 Giới thiệu tính năng
 Nhận diện Dấu tay theo số lượng ngón cái:
 
