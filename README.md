@@ -1,7 +1,6 @@
 ✋ Dự án Nhận diện Bàn tay và Dự đoán Con số
 📌 Giới thiệu
 Đây là dự án nhận diện cử chỉ tay thông qua camera, nhận diện số dấu tay và hiển thị kết quả dựa trên số lượng ngón tay được nhận diện.
-
 Dự án sử dụng OpenCV và các kỹ thuật nhận diện hình ảnh.
 Hiện tại, màn hình hiển thị:
 FPS (làm mượt video).
@@ -23,6 +22,7 @@ FPS: Hiện tại là thông tin FPS của luồng video.
 Nhận diện số ngón tay: Dự đoán cử chỉ số ngón tay (ví dụ: 5 ngón tay trong hình minh họa).
 Hiển thị dữ liệu: Dấu tay được vẽ trên màn hình với các điểm khớp nhận diện.
 🖥️ Minh họa
+![image](https://github.com/user-attachments/assets/dbc2a5ff-5d5b-424d-a360-82a5f1d59794)
 📄 Giới thiệu tính năng
 Nhận diện Dấu tay theo số lượng ngón cái:
 
